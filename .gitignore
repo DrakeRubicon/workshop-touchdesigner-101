@@ -11,5 +11,6 @@ Thumbs.db
 # Backup Files #
 ################
 
-Backup/
+workshop-files/Backup/
+src-slides/
 .*.toe

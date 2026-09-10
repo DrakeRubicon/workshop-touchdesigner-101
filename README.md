@@ -1,31 +1,34 @@
 ![Title](title.png)
 
+[![de](https://img.shields.io/badge/lang-de-red.svg)](README.de_de.md)
+[![en](https://img.shields.io/badge/lang-en-blue.svg)](README.md)
+
 # Workshop - Touchdesigner 101:
 
 ## Step 0
 
-* Mit UI/Terminologie/Konzepten vertraut machen
+* Familiarize yourself with UI/terminology/concepts
 
 ## Step 1 - Handdrawn Lines
 
-* Visuelles Beispiel mit Kernkonzepten:
+* Visual example with core concepts:
 * * Rendering
-* * TopologieOperatoren
-* * Operatoreninteraktion/Referenzierung
+* * Topology operators
+* * Operator interaction/referencing
 
-Basiskonzept von [Bileam Tschepe](https://www.youtube.com/watch?v=WpkOVI3f6Yk)
+Basic concept by [Bileam Tschepe](https://www.youtube.com/watch?v=WpkOVI3f6Yk)
 
-## Step 2 - Interaktivität 1
+## Step 2 - Interactivity 1
 
-* ChannelOperatoren und gestreamte Daten
-* Analyse und Interaktion von Komponenten
+* Channel operators and streamed data
+* Analysis and interaction of components
 
-## Step 3 - Interaktivität 2
+## Step 3 - Interactivity 2
 
-* Metainformationen
-* Operatorenkonvertierung
+* Meta information
+* Operator conversion
 
-## Step 4 - Programmierinterface
+## Step 4 - Programming Interface
 
-* Skripte ausführen
-* Operatoren mit Skripten beeinflussen
+* Execute scripts
+* Influence operators with scripts

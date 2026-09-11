@@ -32,3 +32,9 @@ Basiskonzept von [Bileam Tschepe](https://www.youtube.com/watch?v=WpkOVI3f6Yk)
 
 * Skripte ausführen
 * Operatoren mit Skripten beeinflussen
+
+## Step 5 - Punktoperatoren & Feedback
+
+* Performante Punkterzeugung und -manipulation
+* Feedback-Schleifen
+* Noise-Einstellungen

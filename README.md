@@ -32,3 +32,9 @@ Basic concept by [Bileam Tschepe](https://www.youtube.com/watch?v=WpkOVI3f6Yk)
 
 * Execute scripts
 * Influence operators with scripts
+
+## Step 5 - Point Operators & Feedback
+
+* Performant Point generation and manipulation
+* Feedback Loops
+* Noise Settings

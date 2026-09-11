@@ -14,3 +14,9 @@ Thumbs.db
 workshop-files/Backup/
 src-slides/
 .*.toe
+
+# Other stuff #
+###############
+
+.crush
+
